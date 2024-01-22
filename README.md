@@ -9,7 +9,7 @@ First setup python and virtual environments on your machine, then install the de
 * Numpy
 * Scikit-fuzzy (https://github.com/scikit-fuzzy/scikit-fuzzy)
 
-After that setup your hardware -- this osoyoo kit was used when I did this project: https://osoyoo.com/2020/03/01/use-raspberry-pi-to-control-mecanum-omni-wheel-robot-car/. I used the pins included in that guides instructions so be sure to change the pins in the code if using a different hardware config! This project used an l298n based motor driver, so if that is changed as well the control logic will have to be changed to reflect that as well.
+After that setup your hardware -- this osoyoo kit was used when I did this project: https://osoyoo.com/2020/03/01/use-raspberry-pi-to-control-mecanum-omni-wheel-robot-car/. I used the pins included in that guides instructions so be sure to change the pins in the code if using a different hardware config! This project used an l298n based motor driver, so if that is changed as well the control logic will have to be changed to reflect that.
 
 ## Usage
 
