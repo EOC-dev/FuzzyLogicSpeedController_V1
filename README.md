@@ -3,7 +3,7 @@ A fuzzy logic controller to control the speed of dc motors in based on ultrasoni
 
 ## Installation and setup
 
-First setup python and virtual environments on your machine, then install the dependancies:
+First setup python and virtual environments on your machine, then install the dependencies:
 
 * RPi.GPIO
 * Numpy
