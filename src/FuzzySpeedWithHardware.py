@@ -11,7 +11,7 @@ IN1Rear, IN2Rear = 16, 18
 IN3Rear, IN4Rear = 13, 15 
 ENA, ENB = 12, 33
 
-#front Wheels were not used do to a hardware problem with the osoyoo motor x driver
+#front Wheels were not used due to a hardware problem with the osoyoo motor x driver
 IN1Front, IN2Front = 40, 38
 IN3Front, IN4Front = 36, 32
 
